@@ -1,12 +1,12 @@
 # Lending Club Case Study Project
 
 ## Table of Contents
-* [Problem Statement](#Problem-Statement)
+* [Business Objective](#Business-objective)
 * [Python Module Usage](#Python-Module-Usage)
 * [Conclusions](#Conclusion)
 * [Contributer](#Contributer)
 
-## Problem Statement
+## Business-objective
 
 We are assisting a consumer finance company in identifying key characteristics of applicants who are likely to default (fail to repay the loan) and those who are not, using Exploratory Data Analysis (EDA) methods. This company specializes in types of loans to customers. They receive applications and must decide whether to approve a loan based on the applicant’s ability to repay, aiming to enhance their performance.
 
