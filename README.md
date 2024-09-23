@@ -57,4 +57,4 @@ To achieve this, we will analyze past data to determine which types of applicant
 ## Contributer
 
 - Pallab Bhattacharya
-- Anilam M
+- Anilan M
